@@ -20,5 +20,7 @@ public class Calculadora {
         CompositeEA nodo = comp.arbolDeAnalisisSintactico(lexemas);
         System.out.println(nodo);
         System.out.println(nodo.evalua());
+
+        //lineas de prueba
     }
 }
